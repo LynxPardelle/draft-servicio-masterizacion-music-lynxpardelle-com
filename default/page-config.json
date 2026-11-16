@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "servicio-masterizacion.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Masterización musical | Lynx Pardelle",
+    "description": "Prepara una mezcla terminada para su publicación con una última escucha centrada en el color, la dinámica y el nivel de la canción.",
+    "canonical": "https://servicio-masterizacion.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-servicio-mezcla.webp"
+    }
+  }
+}
