@@ -276,7 +276,7 @@
       "type": "text",
       "config": {
         "id": "outcome-title",
-        "text": "Objetivo del trabajo",
+        "text": "¿Qué necesita una canción antes de masterizarse?",
         "tag": "h2",
         "styles": {
           "margin": "0",
@@ -294,7 +294,7 @@
       "type": "text",
       "config": {
         "id": "outcome-copy",
-        "text": "Un sonido final que conserve el carácter de la mezcla y responda al destino del lanzamiento.",
+        "text": "Partimos de una mezcla terminada y de tus referencias. La escucha final permite revisar el color, la dinámica y el nivel que necesita según dónde se va a publicar.",
         "tag": "p",
         "styles": {
           "margin": "0",
@@ -757,7 +757,8 @@
         "tag": "section",
         "components": [
           "offer-contact",
-          "return-link"
+          "return-link",
+          "portfolio-reference"
         ],
         "styles": {
           "boxSizing": "border-box",
@@ -1012,6 +1013,22 @@
           "fontFamily": "\"Instrument Sans\", system-ui, sans-serif",
           "lineHeight": "1.6",
           "minHeight": "100vh"
+        }
+      }
+    },
+    {
+      "id": "portfolio-reference",
+      "type": "link",
+      "config": {
+        "text": "Ver el trabajo musical de Lynx Pardelle",
+        "href": "https://lynxpardelle.com/music",
+        "styles": {
+          "color": "#f6c17d",
+          "textUnderlineOffset": "4px",
+          "minHeight": "44px",
+          "display": "inline-flex",
+          "alignItems": "center",
+          "fontWeight": "640"
         }
       }
     }

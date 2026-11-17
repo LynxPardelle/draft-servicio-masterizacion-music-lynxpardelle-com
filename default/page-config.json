@@ -7,12 +7,56 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Masterización musical | Lynx Pardelle",
-    "description": "Prepara una mezcla terminada para su publicación con una última escucha centrada en el color, la dinámica y el nivel de la canción.",
+    "title": "Servicio de masterización musical para lanzamientos | Lynx Pardelle",
+    "description": "Prepara tu mezcla final para el lanzamiento. Revisa equilibrio tonal, nivel y dinámica según el género, tus referencias y el destino de publicación.",
     "canonical": "https://servicio-masterizacion.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-masterizacion-r2-df4fac374e903a3d.webp",
+      "title": "Servicio de masterización musical para lanzamientos | Lynx Pardelle",
+      "description": "Prepara tu mezcla final para el lanzamiento. Revisa equilibrio tonal, nivel y dinámica según el género, tus referencias y el destino de publicación.",
+      "url": "https://servicio-masterizacion.music.lynxpardelle.com/",
+      "imageAlt": "Sala de masterización con monitores y tratamiento acústico."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Servicio de masterización musical para lanzamientos | Lynx Pardelle",
+      "description": "Prepara tu mezcla final para el lanzamiento. Revisa equilibrio tonal, nivel y dinámica según el género, tus referencias y el destino de publicación.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-masterizacion-r2-df4fac374e903a3d.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://servicio-masterizacion.music.lynxpardelle.com/#webpage",
+        "name": "Masterización musical",
+        "description": "Prepara tu mezcla final para el lanzamiento. Revisa equilibrio tonal, nivel y dinámica según el género, tus referencias y el destino de publicación.",
+        "url": "https://servicio-masterizacion.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Servicios",
+          "url": "https://music.lynxpardelle.com/servicios"
+        },
+        "mainEntity": {
+          "@id": "https://servicio-masterizacion.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "@id": "https://servicio-masterizacion.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Masterización musical",
+        "description": "Prepara tu mezcla final para el lanzamiento. Revisa equilibrio tonal, nivel y dinámica según el género, tus referencias y el destino de publicación.",
+        "url": "https://servicio-masterizacion.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-masterizacion-r2-df4fac374e903a3d.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "serviceType": "Masterización musical"
+      }
+    ]
   }
 }
